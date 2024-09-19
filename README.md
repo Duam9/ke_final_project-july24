@@ -117,3 +117,6 @@ Here are some improvement axis:
 - Enhance the granularity to syllable level.
 - Extend the artist field to all artists involved in the writing process;
 - Add the dataset source information in the ontology and complete the knowledge graph accordingly.
+
+### Update
+In the meantime, Álvaro has been able to explore some of these axis as well as to perform other improvements in the context of the additional Project Work. If you want to check this out, please move to this [repository](https://github.com/AlvielD/music-lyrics/tree/main).
